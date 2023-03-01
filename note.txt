@@ -1,0 +1,4 @@
+git status:查看文件的不同
+git pull:拉取文件
+git checkout -- filename :撤销对本地文件的修改或者恢复删除的文件
+git diff HEAD:对比文件的不同
